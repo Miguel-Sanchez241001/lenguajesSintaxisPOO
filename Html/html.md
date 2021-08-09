@@ -135,7 +135,6 @@ soy una etiqueta comun
 
 [👆](#contenido)
 
-
 ## Etiquetas mas Usadas
 
 ---
@@ -203,7 +202,7 @@ soy una etiqueta comun
 ### Listas
 
 - ol: ordenadas 1,2,3,...
-- ul : desordenadas . . . 
+- ul : desordenadas . . .
 - sea cual sea listas li para cada item
 
 ```html
