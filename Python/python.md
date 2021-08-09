@@ -68,3 +68,8 @@ x = 10
 print(type(x))
 # esto arroja int
 ```
+
+[👆](#contenido)
+
+
+##
