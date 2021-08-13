@@ -122,7 +122,7 @@ Ejemplos de html practicos y breves explicaciones.
 
 - Son atributos que tienen todas las etiquetas html.
 
-- Este enlace te muestra  [la lista completa](https://www.notion.so/Html-06932351bf8247c8a28920649322d4b5#18b236291fdc4bb484030001950c11b0)
+- Este enlace te muestra  [la lista completa](https://developer.mozilla.org/es/docs/Web/HTML/Global_attributes)
 
 - los mas usados **id, class, title, hidden, Style**
 
@@ -413,7 +413,9 @@ pattern="[0-9]{3}-[0-9]{3}-[0-9]{3}" required form="fomr1"><br>
 ## Paginas recomendadas
 
 - etiquetas con ejemplos [htmlreference](https://htmlreference.io/)
-
+- Atributos y etiquetas [W3school](https://www.w3schools.com/html/default.asp)
+- [mozilla](https://developer.mozilla.org/es/docs/Web/HTML)
+  
 ## End
 
 💜 **Hecho con amor**
