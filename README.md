@@ -4,8 +4,8 @@ Sintaxis básicas , estructuras de control, bucles y conceptos de POO
 
 ## Por el momento
 
-- **html**
-- **Python**
+- [Html](Html/html.md)
+- [Python](python/python.md)
 - **Java**
 
 
